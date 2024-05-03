@@ -1,0 +1,3 @@
+__pycache__/
+#git ignore any file that has session in the name
+*session*
