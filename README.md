@@ -1,10 +1,10 @@
-Creating a README file is a great way to document your project, providing essential information on how to set up and use your Telegram bot, which can download videos from various platforms like YouTube. Here’s a template for a README that matches your project:
-
----
-
-# Video Download Bot
+# Download Driod Bot
 
 This Telegram bot is designed to download videos from various platforms including YouTube, directly through Telegram. It uses the Telethon library to interact with the Telegram API and custom modules to handle video downloads.
+
+## Online Bot
+
+click [here](https://t.me/DD_Magic_bot) to use the bot online.
 
 ## Features
 
@@ -24,8 +24,8 @@ This Telegram bot is designed to download videos from various platforms includin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bdr-pro/
-   cd yourproject
+   git clone https://github.com/bdr-pro/DownloadDriod.git
+   cd DownloadDriod
    ```
 
 2. **Install the required packages:**
